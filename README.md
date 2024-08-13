@@ -1,2 +1,2 @@
 # StateMachine
-This repository is for deep learning all about the state machine pattern.
+The state machine pattern.
